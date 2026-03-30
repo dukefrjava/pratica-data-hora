@@ -5,9 +5,9 @@
         SEGUNDA, TERÇA, QUARTA, QUINTA, SEXTA, SÁBADO e DOMINGO.
 
    - Crie uma classe Evento com os seguintes atributos:
-        nome (String)
-        dataHora (LocalDateTime)
-        diaDaSemana (DiaDaSemana)
+        -nome (String)
+        -dataHora (LocalDateTime)
+        -diaDaSemana (DiaDaSemana)
 
    - A classe deve ter os seguintes métodos:
         Construtor da Classe, que recebe o nome do evento, a data e hora do evento, e o dia da semana.
